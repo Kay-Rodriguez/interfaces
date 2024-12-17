@@ -7,7 +7,7 @@ const Vida = () => {
             <div style={{ display: 'flex', justifyContent: 'space-around' }}>
                 <div>
                     <img 
-                        src="/Imagenes1/Perros.jpg" 
+                        src="/Imagenes1/Perros.png" 
                         alt="Perros" 
                         style={{ width: '300px', height: '200px', objectFit: 'cover' }}
                     />
@@ -15,7 +15,7 @@ const Vida = () => {
                 </div>
                 <div>
                     <img 
-                        src="/Imagenes1/Bts.jpg" 
+                        src="/Imagenes1/Bts.png" 
                         alt="Bts" 
                         style={{ width: '300px', height: '200px', objectFit: 'cover' }}
                     />
@@ -31,7 +31,7 @@ const Vida = () => {
                 </div>
                 <div>
                     <img 
-                        src="/Imagenes1/Dulces.jpg" 
+                        src="/Imagenes1/Dulces.png" 
                         alt="Dulces" 
                         style={{ width: '300px', height: '200px', objectFit: 'cover' }}
                     />
