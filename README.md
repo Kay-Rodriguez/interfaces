@@ -1,3 +1,4 @@
+INVESTIGACIÓN
 1 ¿Dónde utilizar JSX?
 JSX se utiliza principalmente en archivos de componentes de React para definir la estructura y el contenido de la interfaz de usuario (UI). 
 Se usa dentro de la función `render()` o como parte del `return` en componentes funcionales y permite combinar HTML con lógica de JavaScript de forma fluida
@@ -33,7 +34,8 @@ Las principales razones para usar JSX son:
 | Comentarios        | `<!-- -->`            | `{/* Comentario en JSX */}`       |
 
 
-Ejemplo comparativo
+Ejemplo 
+
 HTML
 <div class="container">
   <h1>Hola</h1>
@@ -43,7 +45,9 @@ JSX
 <div className="container">
   <h1>Hola</h1>
 </div>
------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+
  4 ¿Qué es React?  
 React es una biblioteca de JavaScript desarrollada por Meta (Facebook) para crear interfaces de usuario dinámicas y basadas en componentes.
 Se centra en la construcción de aplicaciones web rápidas, escalables y modulares utilizando un modelo declarativo.
