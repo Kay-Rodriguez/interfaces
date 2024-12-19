@@ -1,4 +1,5 @@
 INVESTIGACIÓN
+
 1 ¿Dónde utilizar JSX?
 JSX se utiliza principalmente en archivos de componentes de React para definir la estructura y el contenido de la interfaz de usuario (UI). 
 Se usa dentro de la función `render()` o como parte del `return` en componentes funcionales y permite combinar HTML con lógica de JavaScript de forma fluida
