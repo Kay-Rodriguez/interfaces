@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <h1>¡Hola, mundo!</h1>
-      <p>Este es un ejemplo de JSX</p>
+      <p>Este es un ejemplo </p>
     </div>
   );
 }
